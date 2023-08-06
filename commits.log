@@ -1,0 +1,98 @@
+commit b4767cf0e72894121e6b86e205bb5dda286676f0
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sat Aug 5 09:36:44 2023 -0500
+
+    Agregando dos parrafos
+
+commit 0b6f00172b61d09130f7ca8b5f8e0bcaacfb2cc0
+Merge: 5ed35b8 3c5fabf
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sat Aug 5 09:33:56 2023 -0500
+
+    resolviendo conflicto en estaciones
+
+commit 5ed35b8c871caee346b8c6f717be85c26f606745
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sat Aug 5 09:19:51 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 3c5fabf74f110155228f0cf65bacd3cf979bb72a
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sat Aug 5 09:19:51 2023 -0500
+
+    agregando las estaciones del año
+
+commit 1835bb4536e0b0253b4f1cdd1e8bdf92decea85c
+Merge: 9582238 a9f184f
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sun Jul 30 18:46:21 2023 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit a9f184f774ff0c241a1d24d5baf92b066703592f
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sun Jul 30 18:40:14 2023 -0500
+
+    Agregando index.js al index.html
+
+commit 9582238e5b09d57c23f867e7472fbecc8849f721
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sun Jul 30 18:37:48 2023 -0500
+
+    Agregando style.css al index.html
+
+commit 56fb2912a923f38f966d2beffd8a57f845579b83
+Merge: 30b9bab 52174e6
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sun Jul 30 18:27:05 2023 -0500
+
+    Merge branch 'js'
+
+commit 52174e696e857e08818a28e2c52b854dfc3a2ebb
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sun Jul 30 18:21:34 2023 -0500
+
+    creando index.js
+
+commit 30b9babbbd9e0184e2b33a78c011b09f52e4f777
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sun Jul 30 18:17:15 2023 -0500
+
+    creando style.css
+
+commit 56a95c6f5fb78cb86ce59b64e5fa0ae508e5c243
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sun Jul 30 18:12:45 2023 -0500
+
+    creando Archivo index.html
+
+commit 32d539dc6c9a5a8f1706d4d1de225c6413a78116
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sun Jul 30 11:26:51 2023 -0500
+
+    ignorando archivo .exe
+
+commit b3c456d576b525bc373cdf120ed70183819bc706
+Author: elmergodoydev <140961984+elmergodoydev@users.noreply.github.com>
+Date:   Sun Jul 30 09:57:05 2023 -0500
+
+    creando licencia del repositorio.
+
+commit 2293efa0d3f94b7770bcf8521fb48387078eb340
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sun Jul 30 09:45:47 2023 -0500
+
+    Agregando mas contenido al README
+
+commit 9e2bccb49c8f89e3107f44d05267b229165a0b7e
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sun Jul 30 09:12:24 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit 88baab080de363c14ff702526d2bdcf4c4090cad
+Author: Elmer Godoy Angeles <elmer.040395@gmail.com>
+Date:   Sun Jul 30 09:05:41 2023 -0500
+
+    Primer commit
